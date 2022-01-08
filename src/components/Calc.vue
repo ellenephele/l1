@@ -66,11 +66,11 @@ export default {
       this.result = this.op1 + this.op2
     },
 
-    diff () {
+    sub () {
       this.result = this.op1 - this.op2
     },
 
-    multi () {
+    mult () {
       this.result = this.op1 * this.op2
     },
 
